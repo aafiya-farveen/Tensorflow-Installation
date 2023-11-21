@@ -21,7 +21,7 @@ This repository contains a Python script for checking the availability of a GPU 
 
 Before executing the TensorFlow installation script, make sure you have Jupyter Notebook installed. You can use the following pip command:
 
-            pip install notebook
+        pip install notebook
             
 4. **Run the Jupyter Notebook:**
 
