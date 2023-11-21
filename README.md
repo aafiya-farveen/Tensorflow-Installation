@@ -9,13 +9,11 @@ This repository contains a Python script for checking the availability of a GPU 
 
    ```bash
        git clone https://github.com/aafiya-farveen/Tensorflow-Installation.git
-       
 
 2. **Navigate to the repository directory:**
 
    ```bash
         cd Tensorflow-Installation
-        
         
 3. **Install Jupyter Notebook:**
 
